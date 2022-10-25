@@ -3,7 +3,7 @@
         "_id": "6357afdf2b1237c3b44842d5",
         "category_id": "01",
         "title": "Learn Complete Front-End Web Development",
-        "ratings": 3.3,
+        "ratings": 4.7,
         "image_url": "https://i.ibb.co/HhrjK4x/webdev.jpg",
         "details": "Front-end developers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end developer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career.",
         "learn": [
@@ -53,7 +53,7 @@
         "_id": "6357afdfbf49ccd6f43ac136",
         "category_id": "03",
         "title": "Learn Complete Game Development With Unity",
-        "ratings": 3.8,
+        "ratings": 4.8,
         "image_url": "https://i.ibb.co/61NHVqf/gamdev.jpg",
         "details": "Game development doesn't have to be scary.  All you need is the passion to learn and an inquisitive, experimental nature for combining code, animation, graphics, artificial intelligence, art and audio.  Sounds like a lot?  It is, but when you see how you as a solo developer can bring it all together there's a touch of magic in the air.",
         "learn": [
@@ -78,7 +78,7 @@
         "_id": "6357afdf439f65385b120fe4",
         "category_id": "04",
         "title": "Learn The Basics Of Machine Learning",
-        "ratings": 4.9,
+        "ratings": 4.2,
         "image_url": "https://i.ibb.co/2MW4jT4/machinelearning.jpg",
         "details": "Machine learning, the field of computer science that gives computer systems the ability to learn from data, is one of the hottest topics in computer science.Machine learning is transforming the world: from spam filtering in social networks to computer vision for self-driving cars, the potential applications of machine learning are vast.",
         "learn": [
@@ -128,7 +128,7 @@
         "_id": "6357bf6c31698322fc175426",
         "category_id": "06",
         "title": "Learn DevOps Beginners to Advanced",
-        "ratings": 3.9,
+        "ratings": 4.3,
         "image_url": "https://i.ibb.co/VgPmTXj/devops.jpg",
         "details": "DevSecOps has gained considerable momentum in recent years. It integrates software development (Dev), information security (Sec), and IT operations (Ops) so that businesses increase the value delivered by software. This course provides an overview of DevSecOps; introduces essential practices, such as continuous integration / continuous deployment (CI/CD)",
         "learn": [
