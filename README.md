@@ -2,12 +2,12 @@
 
 ## API Links
 
-### Categories
+### Courses
 
-URL: https://brighters-server.vercel.app/categories
+URL: https://brighters-server.vercel.app/courses
 
-### Courses url:
+### Course url:
 
-URL Format: https://brighters-server.vercel.app/categories/${id}
+URL Format: https://brighters-server.vercel.app/courses/${id}
 
-Example: https://brighters-server.vercel.app/categories/01
+Example: https://brighters-server.vercel.app/courses/01

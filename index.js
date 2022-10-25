@@ -2,7 +2,6 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const port = process.env.PORT || 5000;
-const categories = require("./data/categories.json");
 const courses = require("./data/courses.json");
 
 app.use(cors());
@@ -11,13 +10,13 @@ app.get("/", (req, res) => {
   res.send("Welcome To Brighters API!");
 });
 
-// sendig data when requested
-app.get("/categories", (req, res) => {
-  res.send(categories);
+// API data sending as a response when requested
+app.get("/courses", (req, res) => {
+  res.send(courses);
 });
-app.get("/categories/:id", (req, res) => {
+app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
-  const foundedData = courses.find((course) => course.category_id === id);
+  const foundedData = courses.find((course) => course._id === id);
   res.send(foundedData);
 });
 
