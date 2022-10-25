@@ -1,0 +1,152 @@
+[
+    {
+        "_id": "6357afdf2b1237c3b44842d5",
+        "category_id": "01",
+        "title": "Learn Complete Front-End Web Development",
+        "ratings": 3.3,
+        "image_url": "https://i.ibb.co/HhrjK4x/webdev.jpg",
+        "details": "Front-end developers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end developer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career.",
+        "learn": [
+            {
+                "name": "You will learn complete front-end web development with latest technologies"
+            },
+            {
+                "name": "You will learn to build Bootstrap 5 Web Applications"
+            },
+            {
+                "name": "You will learn Complete JavaScript + ECMA Script 6 (ES6)"
+            },
+            {
+                "name": "You will learn to build Modern websites with React JS"
+            },
+            {
+                "name": "You will learn how to tackle interview questions and code challenges"
+            }
+        ]
+    },
+    {
+        "_id": "6357afdf88bb9785e12db2d6",
+        "category_id": "02",
+        "title": "Learn Complete iOS App Development With Swift",
+        "ratings": 4.4,
+        "image_url": "https://i.ibb.co/4mTCDK4/appdev.png",
+        "details": "Swift is a powerful programming language that is easy and also fun to learn. Its code is safe by design, yet also produces software that runs lightning-fast. It is used to build apps for iOS, watchOS, macOS, tvOS, and Linux.We will start with the fundamental programming concepts before digging deeper into the more advanced Swift topics",
+        "learn": [
+            {
+                "name": "You will learn Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData."
+            },
+            {
+                "name": "You will learn by doing, where every lesson is incorporated into a real-world app project."
+            },
+            {
+                "name": "Master creating Augmented Reality apps using Apple’s new ARKit"
+            },
+            {
+                "name": "Master app design so you'll know how to wireframe, mockup and prototype your app idea"
+            },
+            {
+                "name": "After the course, you will be able to build any app you want."
+            }
+        ]
+    },
+    {
+        "_id": "6357afdfbf49ccd6f43ac136",
+        "category_id": "03",
+        "title": "Learn Complete Game Development With Unity",
+        "ratings": 3.8,
+        "image_url": "https://i.ibb.co/61NHVqf/gamdev.jpg",
+        "details": "Game development doesn't have to be scary.  All you need is the passion to learn and an inquisitive, experimental nature for combining code, animation, graphics, artificial intelligence, art and audio.  Sounds like a lot?  It is, but when you see how you as a solo developer can bring it all together there's a touch of magic in the air.",
+        "learn": [
+            {
+                "name": "The Unity Game Engine Software"
+            },
+            {
+                "name": "Animating humanoid models and NPCs"
+            },
+            {
+                "name": "Unity's Terrain Sculpting System for developing game maps"
+            },
+            {
+                "name": "Creating and animating a first person character for use in an FPS"
+            },
+            {
+                "name": "Artificial Intelligence techniques for defining the behaviour of non-player characters"
+            }
+        ]
+    },
+    {
+        "_id": "6357afdf439f65385b120fe4",
+        "category_id": "04",
+        "title": "Learn The Basics Of Machine Learning",
+        "ratings": 4.9,
+        "image_url": "https://i.ibb.co/2MW4jT4/machinelearning.jpg",
+        "details": "Machine learning, the field of computer science that gives computer systems the ability to learn from data, is one of the hottest topics in computer science.Machine learning is transforming the world: from spam filtering in social networks to computer vision for self-driving cars, the potential applications of machine learning are vast.",
+        "learn": [
+            {
+                "name": "Learn which Machine Learning model to choose for each type of problem"
+            },
+            {
+                "name": "Implement Machine Learning algorithms"
+            },
+            {
+                "name": "Learn best practices when it comes to Data Science Workflow"
+            },
+            {
+                "name": "Machine Learning on Time Series data"
+            },
+            {
+                "name": "Learn NumPy and how it is used in Machine Learninge"
+            }
+        ]
+    },
+    {
+        "_id": "6357afdfafa3fc8339e1635e",
+        "category_id": "05",
+        "title": "Learn Data Science Foundations",
+        "ratings": 3.9,
+        "image_url": "https://i.ibb.co/x2RXK5k/datascience.jpg",
+        "details": "Data Science is one of the most in-demand skillsets that companies are constantly hiring for. This Skill Path will teach you the basics of cleaning, and analyzing, and visualizing data responsibly, and prepare you for a career in data. After this Path, you can move on to one of our Data Scientist Career Paths.",
+        "learn": [
+            {
+                "name": "Definition of data science and what data scientists do"
+            },
+            {
+                "name": "Tools and algorithms used on a daily basis within the field"
+            },
+            {
+                "name": "Use Seaborn for statistical plots"
+            },
+            {
+                "name": "Carry out cluster and factor analysis"
+            },
+            {
+                "name": "Random Forest and Decision Trees"
+            }
+        ]
+    },
+    {
+        "_id": "6357bf6c31698322fc175426",
+        "category_id": "06",
+        "title": "Learn DevOps Beginners to Advanced",
+        "ratings": 3.9,
+        "image_url": "https://i.ibb.co/VgPmTXj/devops.jpg",
+        "details": "DevSecOps has gained considerable momentum in recent years. It integrates software development (Dev), information security (Sec), and IT operations (Ops) so that businesses increase the value delivered by software. This course provides an overview of DevSecOps; introduces essential practices, such as continuous integration / continuous deployment (CI/CD)",
+        "learn": [
+            {
+                "name": "Understand how various technologies work together in DevOps"
+            },
+            {
+                "name": "Linux, AWS, Bash & Python Scripting, Jenkins, Ansible, Docker, Kubernetes, Cloudformation, Terraform & More"
+            },
+            {
+                "name": "Explain the three principles that underpin DevSecOps practices"
+            },
+            {
+                "name": "Plan a DevSecOps transformation"
+            },
+            {
+                "name": "Get a firm understanding in DevOps Processes, Tools & Technologies"
+            }
+        ]
+    }
+]
